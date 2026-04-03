@@ -81,7 +81,7 @@
 ## 🐍 Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anup26x11x2006/anup26x11x2006/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/anup26x11x2006/anup26x11x2006/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
