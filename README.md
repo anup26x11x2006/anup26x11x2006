@@ -1,42 +1,36 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Anoop Patidar Banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Anoop Patidar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2800&color=00C2FF&center=true&vCenter=true&width=750&lines=Software+Engineer;Data+Science+%7C+AI%2F+ML+Enthusiast;Patent+Holder+💡;Competitive+Programmer;Building+Scalable+Solutions+🚀" />
+  <b>Software Engineer • Data Science • AI/ML • Competitive Programmer</b>
 </p>
 
-<h3 align="center">💻 Software Engineer | 📊 Data Science | 🤖 AI/ML</h3>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anup26x11x2006&label=Profile%20Views&color=0e75b6&style=flat" />
+  🚀 <i>"I build systems that solve real-world problems at scale."</i>
 </p>
 
 ---
 
-## 🏆 Patent & Innovation
+## 🏆 Key Highlight
 
-<p align="center">
-  <b>Waste Monitoring Through Smart Detection System</b>
-</p>
+**Patent Holder — Waste Monitoring Through Smart Detection System**  
+📄 Application No: 202611002943  
+📅 Filed: Jan 2026 | Published: Feb 2026  
 
-<p align="center">
-📄 Application No: <b>202611002943</b>  
-📅 Filed: <b>11 Jan 2026</b> | 📢 Published: <b>20 Feb 2026</b>
-</p>
-
-<p align="center">
-💡 Smart detection-based system designed to optimize waste monitoring and improve environmental efficiency.
-</p>
+💡 Built an intelligent system for efficient waste monitoring using detection-based automation.
 
 ---
 
-## 🎯 Core Expertise
+## ⚡ Technical Strengths
 
-- 📊 Data Science & Analytics  
-- 🧠 Machine Learning & Explainability  
-- 🗄️ SQL & Data Handling  
-- ⚙️ Full Stack Development  
-- 🏗️ System Design & Scalable Systems  
-- ⚡ DSA & Competitive Programming  
+- 🧠 Data Structures & Algorithms  
+- ⚙️ Backend & Full Stack Development  
+- 🤖 Machine Learning (Computer Vision, Explainability)  
+- 🏗️ System Design Fundamentals  
+- 🗄️ SQL & Data Processing  
 
 ---
 
@@ -48,28 +42,34 @@
 
 ---
 
-## 📜 Certifications
+## ⚙️ Engineering Specs
 
-- 🧠 Machine Learning Explainability (Kaggle)  
-- 🗄️ Intro to SQL (Kaggle)  
-- ☁️ Microsoft Azure AI Essentials  
-- 🗣️ Communication & Professional Skills (LinkedIn Learning)
+- 💻 Languages: Python, C++, Java, JavaScript, TypeScript  
+- 🌐 Backend: Node.js, Express, Django  
+- ⚛️ Frontend: React, Next.js  
+- 🤖 AI/ML: PyTorch, TensorFlow, OpenCV  
+- 🗄️ Databases: MySQL, PostgreSQL, MongoDB  
+- ☁️ Tools: AWS, Firebase, Docker, Git  
 
 ---
 
-## 📊 Coding Profiles
+## 📊 Coding & Problem Solving
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/anup26x11x2006?theme=dark&font=baloo&ext=heatmap" />
 </p>
 
+- 🧠 Solved **400+ problems on LeetCode**
+- ⚡ Active on **LeetCode**
+- 🎯 Focused on **DSA, Graphs, Dynamic Programming, Optimization**
+
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anup26x11x2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anup26x11x2006&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anup26x11x2006&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anup26x11x2006&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
@@ -78,7 +78,7 @@
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 Contributions
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/anup26x11x2006/anup26x11x2006/output/github-contribution-grid-snake.svg" />
@@ -88,31 +88,21 @@
 
 ## 🎓 Education
 
-🎓 **B.Tech in Computer Science**  
+B.Tech in Computer Science  
 Poornima College of Engineering, Jaipur
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Profiles
 
 <p align="center">
-  <a href="https://github.com/anup26x11x2006"><img src="https://skillicons.dev/icons?i=github" height="42"/></a>
-  <a href="https://linkedin.com/in/anoop-patidar-93a50a330"><img src="https://skillicons.dev/icons?i=linkedin" height="42"/></a>
-  <a href="https://kaggle.com/anooppatidar"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="42"/></a>
-  <a href="https://leetcode.com/anup26x11x2006"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="42"/></a>
-  <a href="https://codeforces.com/profile/anooppatidar07"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-original.svg" height="42"/></a>
+  <a href="https://github.com/anup26x11x2006"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+  <a href="https://linkedin.com/in/anoop-patidar-93a50a330"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://leetcode.com/anup26x11x2006"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="40"/></a>
 </p>
 
 ---
 
 ## 📫 Contact
 
-<p align="center">
-📧 <b>anooppatidar07@gmail.com</b>
-</p>
-
----
-
-<p align="center">
-🚀 <i>"I build systems that solve real-world problems at scale."</i>
-</p>
+📧 **anooppatidar07@gmail.com**
