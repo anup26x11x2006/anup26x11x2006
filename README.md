@@ -26,11 +26,14 @@
 
 ## ⚡ Technical Strengths
 
-- 🧠 Data Structures & Algorithms  
-- ⚙️ Backend & Full Stack Development  
-- 🤖 Machine Learning (Computer Vision, Explainability)  
-- 🏗️ System Design Fundamentals  
-- 🗄️ SQL & Data Processing  
+- 🧠 Data Structures & Algorithms
+- ⚙️ Backend & Full Stack Development
+- 🤖 Machine Learning (Computer Vision, Explainability)
+- 🏗️ System Design Fundamentals
+- 🗄️ SQL & Data Processing
+- 🧠 Generative AI & Prompt Engineering (NEW)
+- ☁️ Cloud Security & Microsoft Azure (NEW)
+- 📊 Data Analysis & Visualization (NEW)
 
 ---
 
@@ -44,12 +47,47 @@
 
 ## ⚙️ Engineering Specs
 
-- 💻 Languages: Python, C++, Java, JavaScript, TypeScript  
-- 🌐 Backend: Node.js, Express, Django  
-- ⚛️ Frontend: React, Next.js  
-- 🤖 AI/ML: PyTorch, TensorFlow, OpenCV  
-- 🗄️ Databases: MySQL, PostgreSQL, MongoDB  
-- ☁️ Tools: AWS, Firebase, Docker, Git  
+- 💻 Languages: Python, C++, Java, JavaScript, TypeScript
+- 🌐 Backend: Node.js, Express, Django, Flask (NEW)
+- ⚛️ Frontend: React, Next.js
+- 🤖 AI/ML: PyTorch, TensorFlow, OpenCV, Machine Learning Algorithms (NEW)
+- 🗄️ Databases: MySQL, PostgreSQL, MongoDB, SQL (Advanced) (NEW)
+- ☁️ Tools: AWS, Firebase, Docker, Git, Anaconda, PyCharm (NEW)
+- 🧠 AI Tools: Microsoft Copilot, Generative AI Tools (NEW)
+
+---
+
+## 📊 Data Science & AI Expertise  
+- Data Analysis: Pandas, NumPy, Excel (AI-driven with Copilot)
+- Data Visualization: Matplotlib
+- Machine Learning: Supervised Learning, Model Evaluation
+- Machine Learning Explainability
+- TensorFlow (Basics)
+- Large Language Models (LLMs)
+- Prompt Engineering
+- Responsible AI & Ethics 
+
+--- 
+
+## ☁️ Cloud & Security  
+- Microsoft Azure AI Essentials 
+- Microsoft Security Essentials 
+- Cloud Security Fundamentals 
+- Governance, Risk & Compliance (GRC) 
+
+--- 
+
+## 📜 Certifications  
+- Data Science : Intellipaat 
+- SQL (Intro & Advanced) : Kaggle 
+- Machine Learning Explainability : Kaggle
+- Microsoft Azure AI Essentials Professional Certificate 
+- Microsoft Security Essentials Professional Certificate 
+- Career Essentials in Generative AI : Microsoft & LinkedIn 
+- Generative AI for Marketing with Microsoft 365 Copilot 
+- Microsoft Copilot: Prompt Writing 
+- Excel with Copilot: AI-Driven Data Analysis 
+- Artificial Intelligence for Marketing 
 
 ---
 
