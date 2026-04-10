@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Anoop's Banner" />
+  <img src="assets/banner.png" alt="Anoop's Banner " />
 </p>
 
 <h1 align="center">Hi 👋, I'm Anoop Patidar</h1>
