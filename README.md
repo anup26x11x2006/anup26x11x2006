@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Anoop Patidar</h1>
-
+ 
 <p align="center">
   <b>Software Engineer • Data Science • AI/ML • Competitive Programmer</b>
 </p>
