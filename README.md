@@ -97,7 +97,7 @@
   <img src="https://leetcard.jacoblin.cool/anup26x11x2006?theme=dark&font=baloo&ext=heatmap" />
 </p>
 
-- 🧠 Solved **400+ problems on LeetCode**
+- 🧠 Solved **500+ problems on LeetCode**
 - ⚡ Active on **LeetCode**
 - 🎯 Focused on **DSA, Graphs, Dynamic Programming, Optimization**
 
