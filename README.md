@@ -20,22 +20,6 @@ Software Engineer • AI & Data Science Enthusiast • Full-Stack Developer
 <i>"I build intelligent systems that solve real-world problems through software, AI, and data."</i>
 </p>
 
-<p align="center">
-
-<a href="https://github.com/anup26x11x2006">
-<img src="https://img.shields.io/github/followers/anup26x11x2006?label=Followers&style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/anup26x11x2006">
-<img src="https://img.shields.io/github/stars/anup26x11x2006?affiliations=OWNER&style=for-the-badge"/>
-</a>
-
-<a href="https://komarev.com/ghpvc/?username=anup26x11x2006">
-<img src="https://komarev.com/ghpvc/?username=anup26x11x2006&style=for-the-badge"/>
-</a>
-
-</p>
-
 ---
 
 # 👨‍💻 About Me
