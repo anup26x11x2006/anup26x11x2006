@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center"> 
   <img src="assets/banner.png" alt="Anoop Patidar Banner" />
 </p>
 
