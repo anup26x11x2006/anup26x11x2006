@@ -1,7 +1,7 @@
 <p align="center">     
   <img src="assets/banner.png" alt="Anoop Patidar Banner" />
 </p>
-
+ 
 <h1 align="center">Hi 👋, I'm Anoop Patidar</h1>
 
 <h3 align="center">
